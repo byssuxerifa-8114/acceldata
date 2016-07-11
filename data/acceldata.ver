@@ -1,0 +1,10 @@
+[version]
+domain_gfwlist = 20160708
+domain_whitelist = 20160708
+net_chinalist = 20160708
+
+[hash]
+domain_gfwlist = 9c01d25728087e8d4065be22c1cbcc30
+domain_whitelist = fb6e562eb68033654647a894e8e07347
+net_chinalist = 3add7c782f8ecf3d970f5f482d5c83c9
+
