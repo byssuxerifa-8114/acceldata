@@ -1,3 +1,6 @@
+[base]
+files=domain_gfwlist,domain_gfwlist2,domain_whitelist,net_chinalist
+
 [version]
 domain_gfwlist = 20160708
 domain_gfwlist = 20160708
